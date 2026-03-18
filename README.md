@@ -1,6 +1,6 @@
 # Tshirt-shop
 I’m excited to share my latest project: T‑shirt Shop, a fully functional e‑commerce web application that I built to demonstrate practical skills in full‑stack development.
-**(Demo Video)[https://youtu.be/21YgwoGsUaA]**
+[Demo Video](https://youtu.be/21YgwoGsUaA)
 
 
 ## This project showcases:
